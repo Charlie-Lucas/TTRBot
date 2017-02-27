@@ -1,0 +1,9 @@
+module.exports = {
+  name: "Your bot name",
+  prefix: "your prefix",
+  token: "your token",
+  deleteAfterReply: {
+    enabled: true,
+    time: 10000, // In milliseconds
+  }
+};
