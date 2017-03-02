@@ -1,6 +1,8 @@
 node_modules
 coverage
 config.js
-client_secret.json
+googleapi.json
+apixu.json
 .editorconfig
 .gitattributes
+.idea
