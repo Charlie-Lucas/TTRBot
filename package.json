@@ -26,13 +26,16 @@
     "url": "https://github.com/Charlie-Lucas/TTRBot/issues"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
     "clapp": "^1.2.1",
     "dateformat": "^2.0.0",
     "discord.js": "^11.0.0",
     "es6-promise": "^4.0.5",
     "google-auth-library": "^0.10.0",
     "googleapis": "^17.1.0",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^2.2.1",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.8.5"
   },
   "devDependencies": {
     "eslint": "^3.1.1",
