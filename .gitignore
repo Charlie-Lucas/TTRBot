@@ -1,6 +1,5 @@
 node_modules
 coverage
-config.js
 googleapi.json
 apixu.json
 .editorconfig
