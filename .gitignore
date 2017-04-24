@@ -1,7 +1,5 @@
 node_modules
 coverage
-googleapi.json
-apixu.json
 .editorconfig
 .gitattributes
 .idea
